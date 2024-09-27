@@ -1,1 +1,2 @@
 nginx:1.26
+cadvisor:v0.49.1
