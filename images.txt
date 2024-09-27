@@ -1,2 +1,2 @@
 nginx:1.26
-cadvisor:v0.49.1
+gcr.io/cadvisor/cadvisor:v0.49.1
